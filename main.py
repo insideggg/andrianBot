@@ -2,7 +2,7 @@ import telebot
 import time
 
 # Initialize bot with your token
-API_TOKEN = '7445735950:AAE1z05ln_b7b4hZ-z31ABjRXJpxX0hWQZQ'
+API_TOKEN = 'YOUR_API_KEY'
 bot = telebot.TeleBot(API_TOKEN)
 
 
